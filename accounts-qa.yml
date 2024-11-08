@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to MoreBank accounts related QA APIs"
   contactDetails:
     name: "Kevin Roberts - QA Lead"
-    email: "KevinRoberts@morebank.com"
+    email: "{cipher}55b59e84a4b720760fc280a30d663fea04da9a01c31df0dae9bbec85ba07a1a173645108fd66a2ae47d82d2e86241d05"
   onCallSupport:
     - 700-123-4567
     - 700-987-6543
