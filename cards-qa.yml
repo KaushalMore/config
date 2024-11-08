@@ -5,7 +5,7 @@ cards:
   message: "Welcome to MoreBank cards related QA APIs"
   contactDetails:
     name: "Jerry Smith"
-    email: "jerrysmith@morebank.com"
+    email: "{cipher}e602907ebc2aa51ad39e40f81fee95a93afbb57b6826206102ff3c878ebb0819b940001d941dd2a35ab9375178162567"
   onCallSupport:
     - 999-999-9999
     - 999-999-9998
