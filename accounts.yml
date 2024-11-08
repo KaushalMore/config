@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to MoreBank accounts related local APIs"
+  contactDetails:
+    name: "John Doe - Developer"
+    email: "JohnDoe@morebank.com"
+  onCallSupport:
+    - 600-123-4567
+    - 600-987-6543

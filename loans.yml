@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to MoreBank loans related local APIs"
+  contactDetails:
+    name: "Olga Hernandez - Product Owner"
+    email: "olgahernandez@morebank.com"
+  onCallSupport:
+    - 777-123-4567
+    - 777-987-6543

@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to MoreBank accounts related prod APIs"
+  contactDetails:
+    name: "Adam Smith - Product Owner"
+    email: "AdamSmith@morebank.com"
+  onCallSupport:
+    - 800-123-4567
+    - 800-987-6543

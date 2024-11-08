@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to MoreBank cards related prod APIs"
+  contactDetails:
+    name: "Tom Hanks"
+    email: "tomhanks@morebank.com"
+  onCallSupport:
+    - 444-444-4444
+    - 444-444-4445

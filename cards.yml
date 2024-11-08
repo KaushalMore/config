@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to MoreBank cards related local APIs"
+  contactDetails:
+    name: "Garry Angel"
+    email: "garryangel@morebank.com"
+  onCallSupport:
+    - 555-786-7860
+    - 555-786-0786

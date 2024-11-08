@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to MoreBank loans related qa APIs"
+  contactDetails:
+    name: "Olga Hernandez - QA Lead"
+    email: "olgahernandez@morebank.com"
+  onCallSupport:
+    - 777-123-4567
+    - 777-987-6543

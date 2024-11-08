@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to MoreBank loans related prod APIs"
+  contactDetails:
+    name: "Pablo Garcia - Product Owner"
+    email: "pablogarcia@morebank.com"
+  onCallSupport:
+    - 999-123-4567
+    - 999-987-6543

@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to EazyBank cards related QA APIs"
+  contactDetails:
+    name: "Jerry Smith"
+    email: "jerrysmith@morebank.com"
+  onCallSupport:
+    - 999-999-9999
+    - 999-999-9998
