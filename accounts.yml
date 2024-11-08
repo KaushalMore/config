@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to MoreBank accounts related local APIs"
   contactDetails:
     name: "John Doe - Developer"
-    email: "JohnDoe@morebank.com"
+    email: "{cipher}1985c88cd0bf2c9e3cffcefa2d203f385b29e1ea1dc32e935b73c50eb366c80f1d1caa8ed00170dfa42232c850c6df26"
   onCallSupport:
     - 600-123-4567
     - 600-987-6543
