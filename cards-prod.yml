@@ -5,7 +5,7 @@ cards:
   message: "Welcome to MoreBank cards related prod APIs"
   contactDetails:
     name: "Tom Hanks"
-    email: "tomhanks@morebank.com"
+    email: "{cipher}0c7623695390d7571b90f29c82ed08298f7cf2e2f81fbb184f1d8c308c659dc43d6158bcbd49d60f855da9821436af48"
   onCallSupport:
     - 444-444-4444
     - 444-444-4445
