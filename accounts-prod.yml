@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to MoreBank accounts related prod APIs"
+  message: "Welcome to MoreBank accounts related production APIs"
   contactDetails:
     name: "Adam Smith - Product Owner"
     email: "{cipher}17c0c704cb9f0ff6fa8982b0972d3132a2310ee207cf0d03ced2b6330b774df741b2fc810f62703d78c4981bfdf2e6a1"
